@@ -1,0 +1,3901 @@
+{
+  "version": 1,
+  "title": "英语高频词根词缀词库",
+  "locale": "zh-CN",
+  "srsDefaults": {
+    "algorithm": "sm2-ebbinghaus-hybrid",
+    "intervalsMinutes": [
+      10,
+      1440,
+      2880,
+      5760,
+      10080,
+      21600,
+      43200
+    ],
+    "description": "首学后约10分钟，再经1/2/4/7/15/30天阶梯；答错回退到早期阶梯。"
+  },
+  "entries": [
+    {
+      "id": "pre-prefix",
+      "form": "pre-",
+      "type": "prefix",
+      "meaning": "在…之前；预先",
+      "origin": "Latin",
+      "originDetail": "prae",
+      "difficulty": 1,
+      "themes": [
+        "时间",
+        "位置"
+      ],
+      "examples": [
+        {
+          "word": "preview",
+          "gloss": "预览"
+        },
+        {
+          "word": "predict",
+          "gloss": "预测"
+        },
+        {
+          "word": "prefix",
+          "gloss": "前缀"
+        }
+      ],
+      "mnemonic": "pre = 在前，像预习 preview",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "时间",
+        "位置"
+      ]
+    },
+    {
+      "id": "re-prefix",
+      "form": "re-",
+      "type": "prefix",
+      "meaning": "再；回；向后",
+      "origin": "Latin",
+      "originDetail": "re",
+      "difficulty": 1,
+      "themes": [
+        "重复",
+        "方向"
+      ],
+      "examples": [
+        {
+          "word": "return",
+          "gloss": "返回"
+        },
+        {
+          "word": "rewrite",
+          "gloss": "重写"
+        },
+        {
+          "word": "recall",
+          "gloss": "回想"
+        }
+      ],
+      "mnemonic": "re = again / back",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "重复",
+        "方向"
+      ]
+    },
+    {
+      "id": "un-prefix",
+      "form": "un-",
+      "type": "prefix",
+      "meaning": "不；相反；除去",
+      "origin": "Germanic",
+      "originDetail": "un",
+      "difficulty": 1,
+      "themes": [
+        "否定"
+      ],
+      "examples": [
+        {
+          "word": "unhappy",
+          "gloss": "不快乐"
+        },
+        {
+          "word": "unlock",
+          "gloss": "解锁"
+        },
+        {
+          "word": "unfair",
+          "gloss": "不公平"
+        }
+      ],
+      "mnemonic": "un = not",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "prefix",
+        "难度1",
+        "否定"
+      ]
+    },
+    {
+      "id": "in-prefix",
+      "form": "in-/im-/il-/ir-",
+      "type": "prefix",
+      "meaning": "不；进入",
+      "origin": "Latin",
+      "originDetail": "in",
+      "difficulty": 2,
+      "themes": [
+        "否定",
+        "方向"
+      ],
+      "examples": [
+        {
+          "word": "invisible",
+          "gloss": "看不见的"
+        },
+        {
+          "word": "import",
+          "gloss": "进口"
+        },
+        {
+          "word": "illegal",
+          "gloss": "非法的"
+        }
+      ],
+      "mnemonic": "双义：否定或into；im/il/ir 是同化",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度2",
+        "否定",
+        "方向"
+      ]
+    },
+    {
+      "id": "dis-prefix",
+      "form": "dis-",
+      "type": "prefix",
+      "meaning": "分开；否定；相反",
+      "origin": "Latin",
+      "originDetail": "dis",
+      "difficulty": 1,
+      "themes": [
+        "否定",
+        "分离"
+      ],
+      "examples": [
+        {
+          "word": "disagree",
+          "gloss": "不同意"
+        },
+        {
+          "word": "disconnect",
+          "gloss": "断开"
+        },
+        {
+          "word": "dismiss",
+          "gloss": "解散"
+        }
+      ],
+      "mnemonic": "dis = apart / not",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "否定",
+        "分离"
+      ]
+    },
+    {
+      "id": "mis-prefix",
+      "form": "mis-",
+      "type": "prefix",
+      "meaning": "错误地；坏地",
+      "origin": "Germanic/Latin",
+      "originDetail": "mis",
+      "difficulty": 1,
+      "themes": [
+        "否定",
+        "评价"
+      ],
+      "examples": [
+        {
+          "word": "mistake",
+          "gloss": "错误"
+        },
+        {
+          "word": "misunderstand",
+          "gloss": "误解"
+        },
+        {
+          "word": "mislead",
+          "gloss": "误导"
+        }
+      ],
+      "mnemonic": "mis = wrong",
+      "relatedIds": [],
+      "tags": [
+        "Germanic/Latin",
+        "prefix",
+        "难度1",
+        "否定",
+        "评价"
+      ]
+    },
+    {
+      "id": "non-prefix",
+      "form": "non-",
+      "type": "prefix",
+      "meaning": "非；不",
+      "origin": "Latin",
+      "originDetail": "non",
+      "difficulty": 1,
+      "themes": [
+        "否定"
+      ],
+      "examples": [
+        {
+          "word": "nonsense",
+          "gloss": "胡说"
+        },
+        {
+          "word": "nonprofit",
+          "gloss": "非营利"
+        },
+        {
+          "word": "nonfiction",
+          "gloss": "非虚构"
+        }
+      ],
+      "mnemonic": "non = not",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "否定"
+      ]
+    },
+    {
+      "id": "anti-prefix",
+      "form": "anti-",
+      "type": "prefix",
+      "meaning": "反对；对抗",
+      "origin": "Greek",
+      "originDetail": "anti",
+      "difficulty": 1,
+      "themes": [
+        "对立"
+      ],
+      "examples": [
+        {
+          "word": "antibiotic",
+          "gloss": "抗生素"
+        },
+        {
+          "word": "antisocial",
+          "gloss": "反社会的"
+        },
+        {
+          "word": "antidote",
+          "gloss": "解毒剂"
+        }
+      ],
+      "mnemonic": "anti = against",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "对立"
+      ]
+    },
+    {
+      "id": "de-prefix",
+      "form": "de-",
+      "type": "prefix",
+      "meaning": "向下；除去；相反",
+      "origin": "Latin",
+      "originDetail": "de",
+      "difficulty": 2,
+      "themes": [
+        "方向",
+        "否定"
+      ],
+      "examples": [
+        {
+          "word": "descend",
+          "gloss": "下降"
+        },
+        {
+          "word": "defrost",
+          "gloss": "解冻"
+        },
+        {
+          "word": "decode",
+          "gloss": "解码"
+        }
+      ],
+      "mnemonic": "de = down / away",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度2",
+        "方向",
+        "否定"
+      ]
+    },
+    {
+      "id": "ex-prefix",
+      "form": "ex-/e-",
+      "type": "prefix",
+      "meaning": "向外；前任",
+      "origin": "Latin",
+      "originDetail": "ex",
+      "difficulty": 1,
+      "themes": [
+        "方向",
+        "时间"
+      ],
+      "examples": [
+        {
+          "word": "export",
+          "gloss": "出口"
+        },
+        {
+          "word": "exit",
+          "gloss": "出口"
+        },
+        {
+          "word": "ex-president",
+          "gloss": "前总统"
+        }
+      ],
+      "mnemonic": "ex = out",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "方向",
+        "时间"
+      ]
+    },
+    {
+      "id": "sub-prefix",
+      "form": "sub-",
+      "type": "prefix",
+      "meaning": "在下；次级；稍微",
+      "origin": "Latin",
+      "originDetail": "sub",
+      "difficulty": 1,
+      "themes": [
+        "位置",
+        "等级"
+      ],
+      "examples": [
+        {
+          "word": "subway",
+          "gloss": "地铁"
+        },
+        {
+          "word": "submarine",
+          "gloss": "潜水艇"
+        },
+        {
+          "word": "subtitle",
+          "gloss": "字幕"
+        }
+      ],
+      "mnemonic": "sub = under",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "位置",
+        "等级"
+      ]
+    },
+    {
+      "id": "super-prefix",
+      "form": "super-",
+      "type": "prefix",
+      "meaning": "在上；超级",
+      "origin": "Latin",
+      "originDetail": "super",
+      "difficulty": 1,
+      "themes": [
+        "位置",
+        "程度"
+      ],
+      "examples": [
+        {
+          "word": "supermarket",
+          "gloss": "超市"
+        },
+        {
+          "word": "superior",
+          "gloss": "优越的"
+        },
+        {
+          "word": "supervise",
+          "gloss": "监督"
+        }
+      ],
+      "mnemonic": "super = above",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "位置",
+        "程度"
+      ]
+    },
+    {
+      "id": "inter-prefix",
+      "form": "inter-",
+      "type": "prefix",
+      "meaning": "在…之间；相互",
+      "origin": "Latin",
+      "originDetail": "inter",
+      "difficulty": 1,
+      "themes": [
+        "关系",
+        "位置"
+      ],
+      "examples": [
+        {
+          "word": "international",
+          "gloss": "国际的"
+        },
+        {
+          "word": "interact",
+          "gloss": "互动"
+        },
+        {
+          "word": "internet",
+          "gloss": "互联网"
+        }
+      ],
+      "mnemonic": "inter = between",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "关系",
+        "位置"
+      ]
+    },
+    {
+      "id": "trans-prefix",
+      "form": "trans-",
+      "type": "prefix",
+      "meaning": "穿过；转变",
+      "origin": "Latin",
+      "originDetail": "trans",
+      "difficulty": 1,
+      "themes": [
+        "方向",
+        "变化"
+      ],
+      "examples": [
+        {
+          "word": "transport",
+          "gloss": "运输"
+        },
+        {
+          "word": "translate",
+          "gloss": "翻译"
+        },
+        {
+          "word": "transfer",
+          "gloss": "转移"
+        }
+      ],
+      "mnemonic": "trans = across",
+      "relatedIds": [
+        "port-root",
+        "form-root"
+      ],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "方向",
+        "变化"
+      ]
+    },
+    {
+      "id": "con-prefix",
+      "form": "con-/com-/col-/cor-",
+      "type": "prefix",
+      "meaning": "共同；一起",
+      "origin": "Latin",
+      "originDetail": "cum",
+      "difficulty": 2,
+      "themes": [
+        "关系"
+      ],
+      "examples": [
+        {
+          "word": "connect",
+          "gloss": "连接"
+        },
+        {
+          "word": "combine",
+          "gloss": "结合"
+        },
+        {
+          "word": "collect",
+          "gloss": "收集"
+        }
+      ],
+      "mnemonic": "con/com = together",
+      "relatedIds": [
+        "inter-prefix"
+      ],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度2",
+        "关系"
+      ]
+    },
+    {
+      "id": "pro-prefix",
+      "form": "pro-",
+      "type": "prefix",
+      "meaning": "向前；支持；代替",
+      "origin": "Latin/Greek",
+      "originDetail": "pro",
+      "difficulty": 2,
+      "themes": [
+        "方向",
+        "立场"
+      ],
+      "examples": [
+        {
+          "word": "progress",
+          "gloss": "进步"
+        },
+        {
+          "word": "promote",
+          "gloss": "促进"
+        },
+        {
+          "word": "pronoun",
+          "gloss": "代词"
+        }
+      ],
+      "mnemonic": "pro = forward / for",
+      "relatedIds": [],
+      "tags": [
+        "Latin/Greek",
+        "prefix",
+        "难度2",
+        "方向",
+        "立场"
+      ]
+    },
+    {
+      "id": "per-prefix",
+      "form": "per-",
+      "type": "prefix",
+      "meaning": "贯穿；完全",
+      "origin": "Latin",
+      "originDetail": "per",
+      "difficulty": 2,
+      "themes": [
+        "程度"
+      ],
+      "examples": [
+        {
+          "word": "perfect",
+          "gloss": "完美的"
+        },
+        {
+          "word": "permanent",
+          "gloss": "永久的"
+        },
+        {
+          "word": "permeate",
+          "gloss": "渗透"
+        }
+      ],
+      "mnemonic": "per = through",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度2",
+        "程度"
+      ]
+    },
+    {
+      "id": "ad-prefix",
+      "form": "ad-/ac-/af-/ag-/al-/ap-/as-/at-",
+      "type": "prefix",
+      "meaning": "朝向；加到",
+      "origin": "Latin",
+      "originDetail": "ad",
+      "difficulty": 3,
+      "themes": [
+        "方向"
+      ],
+      "examples": [
+        {
+          "word": "admit",
+          "gloss": "承认"
+        },
+        {
+          "word": "attract",
+          "gloss": "吸引"
+        },
+        {
+          "word": "affect",
+          "gloss": "影响"
+        }
+      ],
+      "mnemonic": "ad = to；后接字母常同化",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度3",
+        "方向"
+      ]
+    },
+    {
+      "id": "ab-prefix",
+      "form": "ab-/abs-",
+      "type": "prefix",
+      "meaning": "离开；远离",
+      "origin": "Latin",
+      "originDetail": "ab",
+      "difficulty": 2,
+      "themes": [
+        "方向"
+      ],
+      "examples": [
+        {
+          "word": "absent",
+          "gloss": "缺席的"
+        },
+        {
+          "word": "abnormal",
+          "gloss": "异常的"
+        },
+        {
+          "word": "abstract",
+          "gloss": "抽象的"
+        }
+      ],
+      "mnemonic": "ab = away",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度2",
+        "方向"
+      ]
+    },
+    {
+      "id": "en-prefix",
+      "form": "en-/em-",
+      "type": "prefix",
+      "meaning": "使成为；放入",
+      "origin": "Latin/French",
+      "originDetail": "in",
+      "difficulty": 2,
+      "themes": [
+        "使动"
+      ],
+      "examples": [
+        {
+          "word": "enable",
+          "gloss": "使能够"
+        },
+        {
+          "word": "enrich",
+          "gloss": "使丰富"
+        },
+        {
+          "word": "empower",
+          "gloss": "赋权"
+        }
+      ],
+      "mnemonic": "en = make / put in",
+      "relatedIds": [],
+      "tags": [
+        "Latin/French",
+        "prefix",
+        "难度2",
+        "使动"
+      ]
+    },
+    {
+      "id": "over-prefix",
+      "form": "over-",
+      "type": "prefix",
+      "meaning": "过度；在上",
+      "origin": "Germanic",
+      "originDetail": "over",
+      "difficulty": 1,
+      "themes": [
+        "程度"
+      ],
+      "examples": [
+        {
+          "word": "overcome",
+          "gloss": "克服"
+        },
+        {
+          "word": "overwork",
+          "gloss": "过度工作"
+        },
+        {
+          "word": "overview",
+          "gloss": "概览"
+        }
+      ],
+      "mnemonic": "over = too much / above",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "prefix",
+        "难度1",
+        "程度"
+      ]
+    },
+    {
+      "id": "under-prefix",
+      "form": "under-",
+      "type": "prefix",
+      "meaning": "在下；不足",
+      "origin": "Germanic",
+      "originDetail": "under",
+      "difficulty": 1,
+      "themes": [
+        "程度",
+        "位置"
+      ],
+      "examples": [
+        {
+          "word": "understand",
+          "gloss": "理解"
+        },
+        {
+          "word": "underestimate",
+          "gloss": "低估"
+        },
+        {
+          "word": "underground",
+          "gloss": "地下的"
+        }
+      ],
+      "mnemonic": "under = below / too little",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "prefix",
+        "难度1",
+        "程度",
+        "位置"
+      ]
+    },
+    {
+      "id": "auto-prefix",
+      "form": "auto-",
+      "type": "prefix",
+      "meaning": "自己；自动",
+      "origin": "Greek",
+      "originDetail": "autos",
+      "difficulty": 1,
+      "themes": [
+        "自我"
+      ],
+      "examples": [
+        {
+          "word": "automatic",
+          "gloss": "自动的"
+        },
+        {
+          "word": "autobiography",
+          "gloss": "自传"
+        },
+        {
+          "word": "automobile",
+          "gloss": "汽车"
+        }
+      ],
+      "mnemonic": "auto = self",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "自我"
+      ]
+    },
+    {
+      "id": "bio-prefix",
+      "form": "bio-",
+      "type": "prefix",
+      "meaning": "生命；生物",
+      "origin": "Greek",
+      "originDetail": "bios",
+      "difficulty": 1,
+      "themes": [
+        "生命科学"
+      ],
+      "examples": [
+        {
+          "word": "biology",
+          "gloss": "生物学"
+        },
+        {
+          "word": "biography",
+          "gloss": "传记"
+        },
+        {
+          "word": "antibiotic",
+          "gloss": "抗生素"
+        }
+      ],
+      "mnemonic": "bio = life",
+      "relatedIds": [
+        "viv-root",
+        "gen-root"
+      ],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "生命科学"
+      ]
+    },
+    {
+      "id": "micro-prefix",
+      "form": "micro-",
+      "type": "prefix",
+      "meaning": "微小",
+      "origin": "Greek",
+      "originDetail": "mikros",
+      "difficulty": 1,
+      "themes": [
+        "尺度"
+      ],
+      "examples": [
+        {
+          "word": "microscope",
+          "gloss": "显微镜"
+        },
+        {
+          "word": "microwave",
+          "gloss": "微波"
+        },
+        {
+          "word": "microbe",
+          "gloss": "微生物"
+        }
+      ],
+      "mnemonic": "micro = small",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "尺度"
+      ]
+    },
+    {
+      "id": "mega-prefix",
+      "form": "mega-",
+      "type": "prefix",
+      "meaning": "巨大；百万",
+      "origin": "Greek",
+      "originDetail": "megas",
+      "difficulty": 1,
+      "themes": [
+        "尺度"
+      ],
+      "examples": [
+        {
+          "word": "megacity",
+          "gloss": "特大城市"
+        },
+        {
+          "word": "megabyte",
+          "gloss": "兆字节"
+        },
+        {
+          "word": "megalith",
+          "gloss": "巨石"
+        }
+      ],
+      "mnemonic": "mega = great",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "尺度"
+      ]
+    },
+    {
+      "id": "mono-prefix",
+      "form": "mono-",
+      "type": "prefix",
+      "meaning": "单一",
+      "origin": "Greek",
+      "originDetail": "monos",
+      "difficulty": 1,
+      "themes": [
+        "数量"
+      ],
+      "examples": [
+        {
+          "word": "monologue",
+          "gloss": "独白"
+        },
+        {
+          "word": "monotone",
+          "gloss": "单调"
+        },
+        {
+          "word": "monopoly",
+          "gloss": "垄断"
+        }
+      ],
+      "mnemonic": "mono = one",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "数量"
+      ]
+    },
+    {
+      "id": "poly-prefix",
+      "form": "poly-",
+      "type": "prefix",
+      "meaning": "多",
+      "origin": "Greek",
+      "originDetail": "polys",
+      "difficulty": 1,
+      "themes": [
+        "数量"
+      ],
+      "examples": [
+        {
+          "word": "polygon",
+          "gloss": "多边形"
+        },
+        {
+          "word": "polyglot",
+          "gloss": "通晓多语者"
+        },
+        {
+          "word": "polymer",
+          "gloss": "聚合物"
+        }
+      ],
+      "mnemonic": "poly = many",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "prefix",
+        "难度1",
+        "数量"
+      ]
+    },
+    {
+      "id": "multi-prefix",
+      "form": "multi-",
+      "type": "prefix",
+      "meaning": "多",
+      "origin": "Latin",
+      "originDetail": "multus",
+      "difficulty": 1,
+      "themes": [
+        "数量"
+      ],
+      "examples": [
+        {
+          "word": "multiple",
+          "gloss": "多重的"
+        },
+        {
+          "word": "multimedia",
+          "gloss": "多媒体"
+        },
+        {
+          "word": "multicultural",
+          "gloss": "多元文化的"
+        }
+      ],
+      "mnemonic": "multi = many",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "数量"
+      ]
+    },
+    {
+      "id": "semi-prefix",
+      "form": "semi-",
+      "type": "prefix",
+      "meaning": "半；部分",
+      "origin": "Latin",
+      "originDetail": "semi",
+      "difficulty": 1,
+      "themes": [
+        "数量"
+      ],
+      "examples": [
+        {
+          "word": "semicircle",
+          "gloss": "半圆"
+        },
+        {
+          "word": "semifinal",
+          "gloss": "半决赛"
+        },
+        {
+          "word": "semiconductor",
+          "gloss": "半导体"
+        }
+      ],
+      "mnemonic": "semi = half",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "prefix",
+        "难度1",
+        "数量"
+      ]
+    },
+    {
+      "id": "spect-root",
+      "form": "spect/spec/spic",
+      "type": "root",
+      "meaning": "看",
+      "origin": "Latin",
+      "originDetail": "specere",
+      "difficulty": 1,
+      "themes": [
+        "感知"
+      ],
+      "examples": [
+        {
+          "word": "inspect",
+          "gloss": "检查"
+        },
+        {
+          "word": "spectator",
+          "gloss": "观众"
+        },
+        {
+          "word": "suspicious",
+          "gloss": "可疑的"
+        }
+      ],
+      "mnemonic": "spectacle 眼镜/景象 → 看",
+      "relatedIds": [
+        "vid-root",
+        "scop-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "感知"
+      ]
+    },
+    {
+      "id": "dict-root",
+      "form": "dict/dic",
+      "type": "root",
+      "meaning": "说；宣布",
+      "origin": "Latin",
+      "originDetail": "dicere",
+      "difficulty": 1,
+      "themes": [
+        "语言"
+      ],
+      "examples": [
+        {
+          "word": "dictionary",
+          "gloss": "词典"
+        },
+        {
+          "word": "predict",
+          "gloss": "预言"
+        },
+        {
+          "word": "contradict",
+          "gloss": "反驳"
+        }
+      ],
+      "mnemonic": "dict = say",
+      "relatedIds": [
+        "log-root",
+        "graph-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "语言"
+      ]
+    },
+    {
+      "id": "duct-root",
+      "form": "duct/duc",
+      "type": "root",
+      "meaning": "引导；带领",
+      "origin": "Latin",
+      "originDetail": "ducere",
+      "difficulty": 1,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "conduct",
+          "gloss": "引导；行为"
+        },
+        {
+          "word": "produce",
+          "gloss": "生产"
+        },
+        {
+          "word": "educate",
+          "gloss": "教育"
+        }
+      ],
+      "mnemonic": "duct = lead；educate = 引导出来",
+      "relatedIds": [
+        "ced-root",
+        "ven-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "动作"
+      ]
+    },
+    {
+      "id": "port-root",
+      "form": "port",
+      "type": "root",
+      "meaning": "携带；运",
+      "origin": "Latin",
+      "originDetail": "portare",
+      "difficulty": 1,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "transport",
+          "gloss": "运输"
+        },
+        {
+          "word": "portable",
+          "gloss": "便携的"
+        },
+        {
+          "word": "export",
+          "gloss": "出口"
+        }
+      ],
+      "mnemonic": "port = carry",
+      "relatedIds": [
+        "trans-prefix",
+        "mit-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "动作"
+      ]
+    },
+    {
+      "id": "scrib-root",
+      "form": "scrib/script",
+      "type": "root",
+      "meaning": "写",
+      "origin": "Latin",
+      "originDetail": "scribere",
+      "difficulty": 1,
+      "themes": [
+        "语言"
+      ],
+      "examples": [
+        {
+          "word": "describe",
+          "gloss": "描述"
+        },
+        {
+          "word": "manuscript",
+          "gloss": "手稿"
+        },
+        {
+          "word": "inscription",
+          "gloss": "铭文"
+        }
+      ],
+      "mnemonic": "script = write",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "语言"
+      ]
+    },
+    {
+      "id": "ject-root",
+      "form": "ject",
+      "type": "root",
+      "meaning": "投；掷",
+      "origin": "Latin",
+      "originDetail": "jacere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "reject",
+          "gloss": "拒绝"
+        },
+        {
+          "word": "project",
+          "gloss": "投射；项目"
+        },
+        {
+          "word": "inject",
+          "gloss": "注射"
+        }
+      ],
+      "mnemonic": "ject = throw",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "tract-root",
+      "form": "tract",
+      "type": "root",
+      "meaning": "拉；拖",
+      "origin": "Latin",
+      "originDetail": "trahere",
+      "difficulty": 1,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "attract",
+          "gloss": "吸引"
+        },
+        {
+          "word": "distract",
+          "gloss": "分心"
+        },
+        {
+          "word": "extract",
+          "gloss": "提取"
+        }
+      ],
+      "mnemonic": "tract = pull",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "动作"
+      ]
+    },
+    {
+      "id": "press-root",
+      "form": "press",
+      "type": "root",
+      "meaning": "压",
+      "origin": "Latin",
+      "originDetail": "premere",
+      "difficulty": 1,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "compress",
+          "gloss": "压缩"
+        },
+        {
+          "word": "express",
+          "gloss": "表达"
+        },
+        {
+          "word": "oppress",
+          "gloss": "压迫"
+        }
+      ],
+      "mnemonic": "press = press",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "动作"
+      ]
+    },
+    {
+      "id": "vert-root",
+      "form": "vert/vers",
+      "type": "root",
+      "meaning": "转",
+      "origin": "Latin",
+      "originDetail": "vertere",
+      "difficulty": 1,
+      "themes": [
+        "变化"
+      ],
+      "examples": [
+        {
+          "word": "convert",
+          "gloss": "转换"
+        },
+        {
+          "word": "universe",
+          "gloss": "宇宙"
+        },
+        {
+          "word": "divert",
+          "gloss": "转移"
+        }
+      ],
+      "mnemonic": "vert = turn",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "变化"
+      ]
+    },
+    {
+      "id": "form-root",
+      "form": "form",
+      "type": "root",
+      "meaning": "形状；形成",
+      "origin": "Latin",
+      "originDetail": "forma",
+      "difficulty": 1,
+      "themes": [
+        "变化"
+      ],
+      "examples": [
+        {
+          "word": "transform",
+          "gloss": "改变形态"
+        },
+        {
+          "word": "reform",
+          "gloss": "改革"
+        },
+        {
+          "word": "uniform",
+          "gloss": "统一的"
+        }
+      ],
+      "mnemonic": "form = shape",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "变化"
+      ]
+    },
+    {
+      "id": "struct-root",
+      "form": "struct",
+      "type": "root",
+      "meaning": "建造",
+      "origin": "Latin",
+      "originDetail": "struere",
+      "difficulty": 1,
+      "themes": [
+        "建造"
+      ],
+      "examples": [
+        {
+          "word": "structure",
+          "gloss": "结构"
+        },
+        {
+          "word": "construct",
+          "gloss": "建造"
+        },
+        {
+          "word": "instruct",
+          "gloss": "指导"
+        }
+      ],
+      "mnemonic": "struct = build",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "建造"
+      ]
+    },
+    {
+      "id": "fact-root",
+      "form": "fact/fic/fect",
+      "type": "root",
+      "meaning": "做；制造",
+      "origin": "Latin",
+      "originDetail": "facere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "factory",
+          "gloss": "工厂"
+        },
+        {
+          "word": "efficient",
+          "gloss": "高效的"
+        },
+        {
+          "word": "perfect",
+          "gloss": "完美的"
+        }
+      ],
+      "mnemonic": "fact = make / do",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "mit-root",
+      "form": "mit/miss",
+      "type": "root",
+      "meaning": "送；放",
+      "origin": "Latin",
+      "originDetail": "mittere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "transmit",
+          "gloss": "传送"
+        },
+        {
+          "word": "mission",
+          "gloss": "任务"
+        },
+        {
+          "word": "permit",
+          "gloss": "允许"
+        }
+      ],
+      "mnemonic": "mit/miss = send",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "pon-root",
+      "form": "pon/pos/posit",
+      "type": "root",
+      "meaning": "放置",
+      "origin": "Latin",
+      "originDetail": "ponere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "position",
+          "gloss": "位置"
+        },
+        {
+          "word": "compose",
+          "gloss": "组成"
+        },
+        {
+          "word": "deposit",
+          "gloss": "存放"
+        }
+      ],
+      "mnemonic": "pos = put",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "ten-root",
+      "form": "ten/tain/tin",
+      "type": "root",
+      "meaning": "持有；保持",
+      "origin": "Latin",
+      "originDetail": "tenere",
+      "difficulty": 2,
+      "themes": [
+        "状态"
+      ],
+      "examples": [
+        {
+          "word": "contain",
+          "gloss": "包含"
+        },
+        {
+          "word": "retain",
+          "gloss": "保留"
+        },
+        {
+          "word": "tenacious",
+          "gloss": "固执的"
+        }
+      ],
+      "mnemonic": "tain = hold",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "状态"
+      ]
+    },
+    {
+      "id": "cap-root",
+      "form": "cap/cep/cept/cip",
+      "type": "root",
+      "meaning": "拿；抓；理解",
+      "origin": "Latin",
+      "originDetail": "capere",
+      "difficulty": 3,
+      "themes": [
+        "动作",
+        "认知"
+      ],
+      "examples": [
+        {
+          "word": "capture",
+          "gloss": "捕获"
+        },
+        {
+          "word": "receive",
+          "gloss": "接收"
+        },
+        {
+          "word": "concept",
+          "gloss": "概念"
+        }
+      ],
+      "mnemonic": "cap = take；concept = 一起抓住的想法",
+      "relatedIds": [
+        "ten-root",
+        "cept"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度3",
+        "动作",
+        "认知"
+      ]
+    },
+    {
+      "id": "ced-root",
+      "form": "ced/ceed/cess",
+      "type": "root",
+      "meaning": "走；让步",
+      "origin": "Latin",
+      "originDetail": "cedere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "proceed",
+          "gloss": "继续前进"
+        },
+        {
+          "word": "succeed",
+          "gloss": "成功；继任"
+        },
+        {
+          "word": "access",
+          "gloss": "通道；访问"
+        }
+      ],
+      "mnemonic": "ceed = go",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "ven-root",
+      "form": "ven/vent",
+      "type": "root",
+      "meaning": "来",
+      "origin": "Latin",
+      "originDetail": "venire",
+      "difficulty": 1,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "invent",
+          "gloss": "发明"
+        },
+        {
+          "word": "prevent",
+          "gloss": "预防"
+        },
+        {
+          "word": "convention",
+          "gloss": "大会；惯例"
+        }
+      ],
+      "mnemonic": "vent = come",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "动作"
+      ]
+    },
+    {
+      "id": "vid-root",
+      "form": "vid/vis",
+      "type": "root",
+      "meaning": "看见",
+      "origin": "Latin",
+      "originDetail": "videre",
+      "difficulty": 1,
+      "themes": [
+        "感知"
+      ],
+      "examples": [
+        {
+          "word": "video",
+          "gloss": "视频"
+        },
+        {
+          "word": "visible",
+          "gloss": "可见的"
+        },
+        {
+          "word": "revise",
+          "gloss": "修订"
+        }
+      ],
+      "mnemonic": "vis = see",
+      "relatedIds": [
+        "spect-root",
+        "scop-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "感知"
+      ]
+    },
+    {
+      "id": "audi-root",
+      "form": "audi/audit",
+      "type": "root",
+      "meaning": "听",
+      "origin": "Latin",
+      "originDetail": "audire",
+      "difficulty": 1,
+      "themes": [
+        "感知"
+      ],
+      "examples": [
+        {
+          "word": "audience",
+          "gloss": "听众"
+        },
+        {
+          "word": "audible",
+          "gloss": "听得见的"
+        },
+        {
+          "word": "audit",
+          "gloss": "审计"
+        }
+      ],
+      "mnemonic": "audi = hear",
+      "relatedIds": [
+        "phon-root",
+        "sens-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "感知"
+      ]
+    },
+    {
+      "id": "cred-root",
+      "form": "cred",
+      "type": "root",
+      "meaning": "相信；信任",
+      "origin": "Latin",
+      "originDetail": "credere",
+      "difficulty": 1,
+      "themes": [
+        "认知"
+      ],
+      "examples": [
+        {
+          "word": "credit",
+          "gloss": "信用"
+        },
+        {
+          "word": "incredible",
+          "gloss": "难以置信的"
+        },
+        {
+          "word": "credential",
+          "gloss": "凭证"
+        }
+      ],
+      "mnemonic": "cred = believe",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "认知"
+      ]
+    },
+    {
+      "id": "cogn-root",
+      "form": "cogn/gni",
+      "type": "root",
+      "meaning": "知道；认识",
+      "origin": "Latin",
+      "originDetail": "cognoscere",
+      "difficulty": 2,
+      "themes": [
+        "认知"
+      ],
+      "examples": [
+        {
+          "word": "recognize",
+          "gloss": "认出"
+        },
+        {
+          "word": "cognitive",
+          "gloss": "认知的"
+        },
+        {
+          "word": "incognito",
+          "gloss": "隐姓埋名"
+        }
+      ],
+      "mnemonic": "cogn = know",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "认知"
+      ]
+    },
+    {
+      "id": "mem-root",
+      "form": "mem/ment",
+      "type": "root",
+      "meaning": "记忆；心智",
+      "origin": "Latin",
+      "originDetail": "memor / mens",
+      "difficulty": 2,
+      "themes": [
+        "认知"
+      ],
+      "examples": [
+        {
+          "word": "memory",
+          "gloss": "记忆"
+        },
+        {
+          "word": "mention",
+          "gloss": "提及"
+        },
+        {
+          "word": "mental",
+          "gloss": "心理的"
+        }
+      ],
+      "mnemonic": "mem = remember",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "认知"
+      ]
+    },
+    {
+      "id": "sens-root",
+      "form": "sens/sent",
+      "type": "root",
+      "meaning": "感觉；感知",
+      "origin": "Latin",
+      "originDetail": "sentire",
+      "difficulty": 1,
+      "themes": [
+        "感知"
+      ],
+      "examples": [
+        {
+          "word": "sense",
+          "gloss": "感觉"
+        },
+        {
+          "word": "consent",
+          "gloss": "同意"
+        },
+        {
+          "word": "sensitive",
+          "gloss": "敏感的"
+        }
+      ],
+      "mnemonic": "sens = feel",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "感知"
+      ]
+    },
+    {
+      "id": "path-root",
+      "form": "path/pathy",
+      "type": "root",
+      "meaning": "感情；痛苦；疾病",
+      "origin": "Greek",
+      "originDetail": "pathos",
+      "difficulty": 2,
+      "themes": [
+        "情感",
+        "医学"
+      ],
+      "examples": [
+        {
+          "word": "sympathy",
+          "gloss": "同情"
+        },
+        {
+          "word": "empathy",
+          "gloss": "共情"
+        },
+        {
+          "word": "pathology",
+          "gloss": "病理学"
+        }
+      ],
+      "mnemonic": "path = feeling / suffering",
+      "relatedIds": [
+        "sens-root",
+        "phil-root",
+        "phob-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度2",
+        "情感",
+        "医学"
+      ]
+    },
+    {
+      "id": "graph-root",
+      "form": "graph/gram",
+      "type": "root",
+      "meaning": "写；图",
+      "origin": "Greek",
+      "originDetail": "graphein",
+      "difficulty": 1,
+      "themes": [
+        "语言",
+        "记录"
+      ],
+      "examples": [
+        {
+          "word": "photograph",
+          "gloss": "照片"
+        },
+        {
+          "word": "telegram",
+          "gloss": "电报"
+        },
+        {
+          "word": "biography",
+          "gloss": "传记"
+        }
+      ],
+      "mnemonic": "graph = write",
+      "relatedIds": [
+        "scrib-root",
+        "log-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "语言",
+        "记录"
+      ]
+    },
+    {
+      "id": "log-root",
+      "form": "log/logue/logy",
+      "type": "root",
+      "meaning": "话语；学问",
+      "origin": "Greek",
+      "originDetail": "logos",
+      "difficulty": 1,
+      "themes": [
+        "语言",
+        "学科"
+      ],
+      "examples": [
+        {
+          "word": "biology",
+          "gloss": "生物学"
+        },
+        {
+          "word": "dialogue",
+          "gloss": "对话"
+        },
+        {
+          "word": "logic",
+          "gloss": "逻辑"
+        }
+      ],
+      "mnemonic": "logy = study of",
+      "relatedIds": [
+        "ology-suffix",
+        "dict-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "语言",
+        "学科"
+      ]
+    },
+    {
+      "id": "phon-root",
+      "form": "phon",
+      "type": "root",
+      "meaning": "声音",
+      "origin": "Greek",
+      "originDetail": "phone",
+      "difficulty": 1,
+      "themes": [
+        "感知"
+      ],
+      "examples": [
+        {
+          "word": "telephone",
+          "gloss": "电话"
+        },
+        {
+          "word": "symphony",
+          "gloss": "交响乐"
+        },
+        {
+          "word": "phonetics",
+          "gloss": "语音学"
+        }
+      ],
+      "mnemonic": "phon = sound",
+      "relatedIds": [
+        "audi-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "感知"
+      ]
+    },
+    {
+      "id": "therm-root",
+      "form": "therm",
+      "type": "root",
+      "meaning": "热",
+      "origin": "Greek",
+      "originDetail": "therme",
+      "difficulty": 1,
+      "themes": [
+        "自然"
+      ],
+      "examples": [
+        {
+          "word": "thermometer",
+          "gloss": "温度计"
+        },
+        {
+          "word": "thermal",
+          "gloss": "热的"
+        },
+        {
+          "word": "geothermal",
+          "gloss": "地热的"
+        }
+      ],
+      "mnemonic": "therm = heat",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "自然"
+      ]
+    },
+    {
+      "id": "hydr-root",
+      "form": "hydr",
+      "type": "root",
+      "meaning": "水",
+      "origin": "Greek",
+      "originDetail": "hydor",
+      "difficulty": 1,
+      "themes": [
+        "自然"
+      ],
+      "examples": [
+        {
+          "word": "hydrant",
+          "gloss": "消防栓"
+        },
+        {
+          "word": "dehydrate",
+          "gloss": "脱水"
+        },
+        {
+          "word": "hydrogen",
+          "gloss": "氢"
+        }
+      ],
+      "mnemonic": "hydr = water",
+      "relatedIds": [
+        "geo-root",
+        "therm-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "自然"
+      ]
+    },
+    {
+      "id": "geo-root",
+      "form": "geo",
+      "type": "root",
+      "meaning": "地球",
+      "origin": "Greek",
+      "originDetail": "ge",
+      "difficulty": 1,
+      "themes": [
+        "自然"
+      ],
+      "examples": [
+        {
+          "word": "geography",
+          "gloss": "地理"
+        },
+        {
+          "word": "geology",
+          "gloss": "地质学"
+        },
+        {
+          "word": "geometry",
+          "gloss": "几何"
+        }
+      ],
+      "mnemonic": "geo = earth",
+      "relatedIds": [
+        "hydr-root",
+        "therm-root",
+        "therm-meter"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "自然"
+      ]
+    },
+    {
+      "id": "chron-root",
+      "form": "chron",
+      "type": "root",
+      "meaning": "时间",
+      "origin": "Greek",
+      "originDetail": "chronos",
+      "difficulty": 1,
+      "themes": [
+        "时间"
+      ],
+      "examples": [
+        {
+          "word": "chronology",
+          "gloss": "年表"
+        },
+        {
+          "word": "synchronize",
+          "gloss": "同步"
+        },
+        {
+          "word": "chronic",
+          "gloss": "慢性的"
+        }
+      ],
+      "mnemonic": "chron = time",
+      "relatedIds": [
+        "fin-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "时间"
+      ]
+    },
+    {
+      "id": "phil-root",
+      "form": "phil/phile",
+      "type": "root",
+      "meaning": "爱",
+      "origin": "Greek",
+      "originDetail": "philein",
+      "difficulty": 2,
+      "themes": [
+        "情感"
+      ],
+      "examples": [
+        {
+          "word": "philosophy",
+          "gloss": "哲学"
+        },
+        {
+          "word": "philanthropy",
+          "gloss": "慈善"
+        },
+        {
+          "word": "bibliophile",
+          "gloss": "爱书者"
+        }
+      ],
+      "mnemonic": "phil = love",
+      "relatedIds": [
+        "path-root",
+        "anthrop-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度2",
+        "情感"
+      ]
+    },
+    {
+      "id": "phob-root",
+      "form": "phob/phobia",
+      "type": "root",
+      "meaning": "恐惧",
+      "origin": "Greek",
+      "originDetail": "phobos",
+      "difficulty": 1,
+      "themes": [
+        "情感"
+      ],
+      "examples": [
+        {
+          "word": "claustrophobia",
+          "gloss": "幽闭恐惧"
+        },
+        {
+          "word": "hydrophobia",
+          "gloss": "恐水症"
+        },
+        {
+          "word": "phobia",
+          "gloss": "恐惧症"
+        }
+      ],
+      "mnemonic": "phobia = fear",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "情感"
+      ]
+    },
+    {
+      "id": "anthrop-root",
+      "form": "anthrop",
+      "type": "root",
+      "meaning": "人；人类",
+      "origin": "Greek",
+      "originDetail": "anthropos",
+      "difficulty": 2,
+      "themes": [
+        "人文"
+      ],
+      "examples": [
+        {
+          "word": "anthropology",
+          "gloss": "人类学"
+        },
+        {
+          "word": "philanthropy",
+          "gloss": "慈善"
+        },
+        {
+          "word": "misanthrope",
+          "gloss": "厌世者"
+        }
+      ],
+      "mnemonic": "anthrop = human",
+      "relatedIds": [
+        "dem-root",
+        "phil-root"
+      ],
+      "tags": [
+        "Greek",
+        "root",
+        "难度2",
+        "人文"
+      ]
+    },
+    {
+      "id": "dem-root",
+      "form": "dem/demo",
+      "type": "root",
+      "meaning": "人民",
+      "origin": "Greek",
+      "originDetail": "demos",
+      "difficulty": 1,
+      "themes": [
+        "社会"
+      ],
+      "examples": [
+        {
+          "word": "democracy",
+          "gloss": "民主"
+        },
+        {
+          "word": "demographic",
+          "gloss": "人口统计的"
+        },
+        {
+          "word": "epidemic",
+          "gloss": "流行病"
+        }
+      ],
+      "mnemonic": "demo = people",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "社会"
+      ]
+    },
+    {
+      "id": "gen-root",
+      "form": "gen/gene",
+      "type": "root",
+      "meaning": "出生；种类；产生",
+      "origin": "Latin/Greek",
+      "originDetail": "genus / genos",
+      "difficulty": 2,
+      "themes": [
+        "生命",
+        "类别"
+      ],
+      "examples": [
+        {
+          "word": "generate",
+          "gloss": "产生"
+        },
+        {
+          "word": "genetic",
+          "gloss": "遗传的"
+        },
+        {
+          "word": "generous",
+          "gloss": "慷慨的"
+        }
+      ],
+      "mnemonic": "gen = birth / kind",
+      "relatedIds": [
+        "nat-root",
+        "viv-root"
+      ],
+      "tags": [
+        "Latin/Greek",
+        "root",
+        "难度2",
+        "生命",
+        "类别"
+      ]
+    },
+    {
+      "id": "nat-root",
+      "form": "nat/nasc",
+      "type": "root",
+      "meaning": "出生；天生",
+      "origin": "Latin",
+      "originDetail": "natus",
+      "difficulty": 2,
+      "themes": [
+        "生命"
+      ],
+      "examples": [
+        {
+          "word": "native",
+          "gloss": "本地的；原生的"
+        },
+        {
+          "word": "nation",
+          "gloss": "国家"
+        },
+        {
+          "word": "nature",
+          "gloss": "自然"
+        }
+      ],
+      "mnemonic": "nat = born",
+      "relatedIds": [
+        "gen-root",
+        "viv-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "生命"
+      ]
+    },
+    {
+      "id": "viv-root",
+      "form": "viv/vit",
+      "type": "root",
+      "meaning": "活；生命",
+      "origin": "Latin",
+      "originDetail": "vivere / vita",
+      "difficulty": 1,
+      "themes": [
+        "生命"
+      ],
+      "examples": [
+        {
+          "word": "survive",
+          "gloss": "存活"
+        },
+        {
+          "word": "vital",
+          "gloss": "至关重要的"
+        },
+        {
+          "word": "vivid",
+          "gloss": "生动的"
+        }
+      ],
+      "mnemonic": "viv = live",
+      "relatedIds": [
+        "mort-root",
+        "gen-root",
+        "bio-prefix"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "生命"
+      ]
+    },
+    {
+      "id": "mort-root",
+      "form": "mort",
+      "type": "root",
+      "meaning": "死",
+      "origin": "Latin",
+      "originDetail": "mors",
+      "difficulty": 1,
+      "themes": [
+        "生命"
+      ],
+      "examples": [
+        {
+          "word": "mortal",
+          "gloss": "终有一死的"
+        },
+        {
+          "word": "immortal",
+          "gloss": "不朽的"
+        },
+        {
+          "word": "mortality",
+          "gloss": "死亡率"
+        }
+      ],
+      "mnemonic": "mort = death",
+      "relatedIds": [
+        "viv-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "生命"
+      ]
+    },
+    {
+      "id": "corp-root",
+      "form": "corp/corpor",
+      "type": "root",
+      "meaning": "身体；团体",
+      "origin": "Latin",
+      "originDetail": "corpus",
+      "difficulty": 2,
+      "themes": [
+        "身体",
+        "组织"
+      ],
+      "examples": [
+        {
+          "word": "corporation",
+          "gloss": "公司"
+        },
+        {
+          "word": "corporal",
+          "gloss": "身体的"
+        },
+        {
+          "word": "incorporate",
+          "gloss": "合并；体现"
+        }
+      ],
+      "mnemonic": "corp = body",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "身体",
+        "组织"
+      ]
+    },
+    {
+      "id": "man-root",
+      "form": "man/manu",
+      "type": "root",
+      "meaning": "手",
+      "origin": "Latin",
+      "originDetail": "manus",
+      "difficulty": 1,
+      "themes": [
+        "身体",
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "manual",
+          "gloss": "手动的；手册"
+        },
+        {
+          "word": "manufacture",
+          "gloss": "制造"
+        },
+        {
+          "word": "manuscript",
+          "gloss": "手稿"
+        }
+      ],
+      "mnemonic": "manu = hand",
+      "relatedIds": [
+        "ped-root",
+        "scrib-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "身体",
+        "动作"
+      ]
+    },
+    {
+      "id": "ped-root",
+      "form": "ped/pod",
+      "type": "root",
+      "meaning": "脚",
+      "origin": "Latin/Greek",
+      "originDetail": "pes / pous",
+      "difficulty": 2,
+      "themes": [
+        "身体"
+      ],
+      "examples": [
+        {
+          "word": "pedestrian",
+          "gloss": "行人"
+        },
+        {
+          "word": "tripod",
+          "gloss": "三脚架"
+        },
+        {
+          "word": "expedition",
+          "gloss": "远征"
+        }
+      ],
+      "mnemonic": "ped = foot；注意 ped 也可指儿童(pediatric)",
+      "relatedIds": [],
+      "tags": [
+        "Latin/Greek",
+        "root",
+        "难度2",
+        "身体"
+      ]
+    },
+    {
+      "id": "cord-root",
+      "form": "cord/cardi",
+      "type": "root",
+      "meaning": "心",
+      "origin": "Latin/Greek",
+      "originDetail": "cor / kardia",
+      "difficulty": 2,
+      "themes": [
+        "身体",
+        "情感"
+      ],
+      "examples": [
+        {
+          "word": "cordial",
+          "gloss": "热诚的"
+        },
+        {
+          "word": "cardiac",
+          "gloss": "心脏的"
+        },
+        {
+          "word": "discord",
+          "gloss": "不和"
+        }
+      ],
+      "mnemonic": "cord = heart",
+      "relatedIds": [
+        "path-root",
+        "sens-root"
+      ],
+      "tags": [
+        "Latin/Greek",
+        "root",
+        "难度2",
+        "身体",
+        "情感"
+      ]
+    },
+    {
+      "id": "lum-root",
+      "form": "lum/luc/lus",
+      "type": "root",
+      "meaning": "光",
+      "origin": "Latin",
+      "originDetail": "lux / lumen",
+      "difficulty": 2,
+      "themes": [
+        "自然"
+      ],
+      "examples": [
+        {
+          "word": "illuminate",
+          "gloss": "照亮"
+        },
+        {
+          "word": "lucid",
+          "gloss": "清晰的"
+        },
+        {
+          "word": "translucent",
+          "gloss": "半透明的"
+        }
+      ],
+      "mnemonic": "lum = light",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "自然"
+      ]
+    },
+    {
+      "id": "therm-meter",
+      "form": "meter/metr",
+      "type": "root",
+      "meaning": "测量",
+      "origin": "Greek",
+      "originDetail": "metron",
+      "difficulty": 1,
+      "themes": [
+        "科学"
+      ],
+      "examples": [
+        {
+          "word": "thermometer",
+          "gloss": "温度计"
+        },
+        {
+          "word": "metric",
+          "gloss": "公制的"
+        },
+        {
+          "word": "geometry",
+          "gloss": "几何"
+        }
+      ],
+      "mnemonic": "meter = measure",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "科学"
+      ]
+    },
+    {
+      "id": "scop-root",
+      "form": "scop/scope",
+      "type": "root",
+      "meaning": "看；观察器",
+      "origin": "Greek",
+      "originDetail": "skopein",
+      "difficulty": 1,
+      "themes": [
+        "感知",
+        "工具"
+      ],
+      "examples": [
+        {
+          "word": "telescope",
+          "gloss": "望远镜"
+        },
+        {
+          "word": "microscope",
+          "gloss": "显微镜"
+        },
+        {
+          "word": "scope",
+          "gloss": "范围"
+        }
+      ],
+      "mnemonic": "scope = look at",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "root",
+        "难度1",
+        "感知",
+        "工具"
+      ]
+    },
+    {
+      "id": "rupt-root",
+      "form": "rupt",
+      "type": "root",
+      "meaning": "破；裂",
+      "origin": "Latin",
+      "originDetail": "rumpere",
+      "difficulty": 1,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "interrupt",
+          "gloss": "打断"
+        },
+        {
+          "word": "erupt",
+          "gloss": "喷发"
+        },
+        {
+          "word": "bankrupt",
+          "gloss": "破产的"
+        }
+      ],
+      "mnemonic": "rupt = break",
+      "relatedIds": [
+        "fract-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "动作"
+      ]
+    },
+    {
+      "id": "fract-root",
+      "form": "fract/frag",
+      "type": "root",
+      "meaning": "碎；断",
+      "origin": "Latin",
+      "originDetail": "frangere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "fracture",
+          "gloss": "骨折；断裂"
+        },
+        {
+          "word": "fragment",
+          "gloss": "碎片"
+        },
+        {
+          "word": "fragile",
+          "gloss": "易碎的"
+        }
+      ],
+      "mnemonic": "fract = break",
+      "relatedIds": [
+        "rupt-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "solv-root",
+      "form": "solv/solu",
+      "type": "root",
+      "meaning": "松开；解决",
+      "origin": "Latin",
+      "originDetail": "solvere",
+      "difficulty": 2,
+      "themes": [
+        "认知",
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "solve",
+          "gloss": "解决"
+        },
+        {
+          "word": "dissolve",
+          "gloss": "溶解"
+        },
+        {
+          "word": "absolute",
+          "gloss": "绝对的"
+        }
+      ],
+      "mnemonic": "solv = loosen / free",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "认知",
+        "动作"
+      ]
+    },
+    {
+      "id": "clud-root",
+      "form": "clud/clus/clos",
+      "type": "root",
+      "meaning": "关闭",
+      "origin": "Latin",
+      "originDetail": "claudere",
+      "difficulty": 2,
+      "themes": [
+        "动作"
+      ],
+      "examples": [
+        {
+          "word": "include",
+          "gloss": "包括"
+        },
+        {
+          "word": "exclude",
+          "gloss": "排除"
+        },
+        {
+          "word": "conclude",
+          "gloss": "结束；推断"
+        }
+      ],
+      "mnemonic": "clude = shut",
+      "relatedIds": [
+        "fin-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度2",
+        "动作"
+      ]
+    },
+    {
+      "id": "fin-root",
+      "form": "fin",
+      "type": "root",
+      "meaning": "结束；界限",
+      "origin": "Latin",
+      "originDetail": "finis",
+      "difficulty": 1,
+      "themes": [
+        "界限"
+      ],
+      "examples": [
+        {
+          "word": "finish",
+          "gloss": "完成"
+        },
+        {
+          "word": "infinite",
+          "gloss": "无限的"
+        },
+        {
+          "word": "define",
+          "gloss": "定义"
+        }
+      ],
+      "mnemonic": "fin = end / boundary",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "界限"
+      ]
+    },
+    {
+      "id": "equ-root",
+      "form": "equ/equi",
+      "type": "root",
+      "meaning": "相等；公平",
+      "origin": "Latin",
+      "originDetail": "aequus",
+      "difficulty": 1,
+      "themes": [
+        "评价"
+      ],
+      "examples": [
+        {
+          "word": "equal",
+          "gloss": "相等的"
+        },
+        {
+          "word": "equity",
+          "gloss": "公平"
+        },
+        {
+          "word": "equation",
+          "gloss": "方程式"
+        }
+      ],
+      "mnemonic": "equ = equal",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "评价"
+      ]
+    },
+    {
+      "id": "bene-root",
+      "form": "bene/bon",
+      "type": "root",
+      "meaning": "好；善",
+      "origin": "Latin",
+      "originDetail": "bene / bonus",
+      "difficulty": 1,
+      "themes": [
+        "评价"
+      ],
+      "examples": [
+        {
+          "word": "benefit",
+          "gloss": "益处"
+        },
+        {
+          "word": "benevolent",
+          "gloss": "仁慈的"
+        },
+        {
+          "word": "bonus",
+          "gloss": "奖金"
+        }
+      ],
+      "mnemonic": "bene = well / good",
+      "relatedIds": [
+        "mal-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "评价"
+      ]
+    },
+    {
+      "id": "mal-root",
+      "form": "mal/male",
+      "type": "root",
+      "meaning": "坏；恶",
+      "origin": "Latin",
+      "originDetail": "malus",
+      "difficulty": 1,
+      "themes": [
+        "评价"
+      ],
+      "examples": [
+        {
+          "word": "malicious",
+          "gloss": "恶意的"
+        },
+        {
+          "word": "malfunction",
+          "gloss": "故障"
+        },
+        {
+          "word": "dismal",
+          "gloss": "阴沉的"
+        }
+      ],
+      "mnemonic": "mal = bad",
+      "relatedIds": [
+        "bene-root"
+      ],
+      "tags": [
+        "Latin",
+        "root",
+        "难度1",
+        "评价"
+      ]
+    },
+    {
+      "id": "tion-suffix",
+      "form": "-tion/-sion",
+      "type": "suffix",
+      "meaning": "行为；状态；结果（名词）",
+      "origin": "Latin",
+      "originDetail": "-tio",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "action",
+          "gloss": "行动"
+        },
+        {
+          "word": "decision",
+          "gloss": "决定"
+        },
+        {
+          "word": "education",
+          "gloss": "教育"
+        }
+      ],
+      "mnemonic": "动词 + tion → 名词",
+      "relatedIds": [
+        "ment-suffix",
+        "ance-suffix"
+      ],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ment-suffix",
+      "form": "-ment",
+      "type": "suffix",
+      "meaning": "行为；结果；手段（名词）",
+      "origin": "Latin/French",
+      "originDetail": "-mentum",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "movement",
+          "gloss": "运动"
+        },
+        {
+          "word": "development",
+          "gloss": "发展"
+        },
+        {
+          "word": "argument",
+          "gloss": "争论"
+        }
+      ],
+      "mnemonic": "动词 + ment → 名词",
+      "relatedIds": [],
+      "tags": [
+        "Latin/French",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ness-suffix",
+      "form": "-ness",
+      "type": "suffix",
+      "meaning": "性质；状态（名词）",
+      "origin": "Germanic",
+      "originDetail": "-nes",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "happiness",
+          "gloss": "幸福"
+        },
+        {
+          "word": "darkness",
+          "gloss": "黑暗"
+        },
+        {
+          "word": "kindness",
+          "gloss": "仁慈"
+        }
+      ],
+      "mnemonic": "形容词 + ness → 名词",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ity-suffix",
+      "form": "-ity/-ty",
+      "type": "suffix",
+      "meaning": "性质；状态（名词）",
+      "origin": "Latin",
+      "originDetail": "-itas",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "ability",
+          "gloss": "能力"
+        },
+        {
+          "word": "reality",
+          "gloss": "现实"
+        },
+        {
+          "word": "safety",
+          "gloss": "安全"
+        }
+      ],
+      "mnemonic": "形容词 + ity → 名词",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "er-suffix",
+      "form": "-er/-or",
+      "type": "suffix",
+      "meaning": "做某事的人；工具",
+      "origin": "Latin/Germanic",
+      "originDetail": "-er/-or",
+      "difficulty": 1,
+      "themes": [
+        "词性",
+        "职业"
+      ],
+      "examples": [
+        {
+          "word": "teacher",
+          "gloss": "教师"
+        },
+        {
+          "word": "actor",
+          "gloss": "演员"
+        },
+        {
+          "word": "computer",
+          "gloss": "计算机"
+        }
+      ],
+      "mnemonic": "er/or = one who",
+      "relatedIds": [],
+      "tags": [
+        "Latin/Germanic",
+        "suffix",
+        "难度1",
+        "词性",
+        "职业"
+      ]
+    },
+    {
+      "id": "ist-suffix",
+      "form": "-ist",
+      "type": "suffix",
+      "meaning": "从事…的人；信仰者",
+      "origin": "Greek",
+      "originDetail": "-istes",
+      "difficulty": 1,
+      "themes": [
+        "职业",
+        "立场"
+      ],
+      "examples": [
+        {
+          "word": "scientist",
+          "gloss": "科学家"
+        },
+        {
+          "word": "artist",
+          "gloss": "艺术家"
+        },
+        {
+          "word": "pianist",
+          "gloss": "钢琴家"
+        }
+      ],
+      "mnemonic": "ist = specialist",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "suffix",
+        "难度1",
+        "职业",
+        "立场"
+      ]
+    },
+    {
+      "id": "ism-suffix",
+      "form": "-ism",
+      "type": "suffix",
+      "meaning": "主义；学说；特征",
+      "origin": "Greek",
+      "originDetail": "-ismos",
+      "difficulty": 2,
+      "themes": [
+        "抽象"
+      ],
+      "examples": [
+        {
+          "word": "realism",
+          "gloss": "现实主义"
+        },
+        {
+          "word": "tourism",
+          "gloss": "旅游业"
+        },
+        {
+          "word": "criticism",
+          "gloss": "批评"
+        }
+      ],
+      "mnemonic": "ism = doctrine / practice",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "suffix",
+        "难度2",
+        "抽象"
+      ]
+    },
+    {
+      "id": "ology-suffix",
+      "form": "-ology/-logy",
+      "type": "suffix",
+      "meaning": "…学；…论",
+      "origin": "Greek",
+      "originDetail": "logos",
+      "difficulty": 1,
+      "themes": [
+        "学科"
+      ],
+      "examples": [
+        {
+          "word": "biology",
+          "gloss": "生物学"
+        },
+        {
+          "word": "psychology",
+          "gloss": "心理学"
+        },
+        {
+          "word": "technology",
+          "gloss": "技术"
+        }
+      ],
+      "mnemonic": "ology = study of",
+      "relatedIds": [
+        "log-root"
+      ],
+      "tags": [
+        "Greek",
+        "suffix",
+        "难度1",
+        "学科"
+      ]
+    },
+    {
+      "id": "able-suffix",
+      "form": "-able/-ible",
+      "type": "suffix",
+      "meaning": "可…的；值得…的",
+      "origin": "Latin",
+      "originDetail": "-abilis",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "readable",
+          "gloss": "可读的"
+        },
+        {
+          "word": "visible",
+          "gloss": "可见的"
+        },
+        {
+          "word": "flexible",
+          "gloss": "灵活的"
+        }
+      ],
+      "mnemonic": "able = can be",
+      "relatedIds": [
+        "ive-suffix"
+      ],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ous-suffix",
+      "form": "-ous/-ious",
+      "type": "suffix",
+      "meaning": "充满…的；具有…的",
+      "origin": "Latin",
+      "originDetail": "-osus",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "famous",
+          "gloss": "著名的"
+        },
+        {
+          "word": "dangerous",
+          "gloss": "危险的"
+        },
+        {
+          "word": "curious",
+          "gloss": "好奇的"
+        }
+      ],
+      "mnemonic": "ous = full of",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ive-suffix",
+      "form": "-ive",
+      "type": "suffix",
+      "meaning": "有…倾向的；…的",
+      "origin": "Latin",
+      "originDetail": "-ivus",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "active",
+          "gloss": "积极的"
+        },
+        {
+          "word": "creative",
+          "gloss": "有创造力的"
+        },
+        {
+          "word": "passive",
+          "gloss": "被动的"
+        }
+      ],
+      "mnemonic": "ive = tending to",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "al-suffix",
+      "form": "-al/-ial",
+      "type": "suffix",
+      "meaning": "…的；与…有关的",
+      "origin": "Latin",
+      "originDetail": "-alis",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "national",
+          "gloss": "国家的"
+        },
+        {
+          "word": "cultural",
+          "gloss": "文化的"
+        },
+        {
+          "word": "musical",
+          "gloss": "音乐的"
+        }
+      ],
+      "mnemonic": "al = relating to",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ic-suffix",
+      "form": "-ic/-ical",
+      "type": "suffix",
+      "meaning": "…的；属于…的",
+      "origin": "Greek/Latin",
+      "originDetail": "-ikos",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "historic",
+          "gloss": "历史上著名的"
+        },
+        {
+          "word": "economic",
+          "gloss": "经济的"
+        },
+        {
+          "word": "logical",
+          "gloss": "合乎逻辑的"
+        }
+      ],
+      "mnemonic": "ic = pertaining to",
+      "relatedIds": [],
+      "tags": [
+        "Greek/Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ful-suffix",
+      "form": "-ful",
+      "type": "suffix",
+      "meaning": "充满…的",
+      "origin": "Germanic",
+      "originDetail": "full",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "beautiful",
+          "gloss": "美丽的"
+        },
+        {
+          "word": "careful",
+          "gloss": "仔细的"
+        },
+        {
+          "word": "hopeful",
+          "gloss": "充满希望的"
+        }
+      ],
+      "mnemonic": "ful = full of",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "less-suffix",
+      "form": "-less",
+      "type": "suffix",
+      "meaning": "没有…的",
+      "origin": "Germanic",
+      "originDetail": "less",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "hopeless",
+          "gloss": "绝望的"
+        },
+        {
+          "word": "careless",
+          "gloss": "粗心的"
+        },
+        {
+          "word": "endless",
+          "gloss": "无尽的"
+        }
+      ],
+      "mnemonic": "less = without",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ize-suffix",
+      "form": "-ize/-ise",
+      "type": "suffix",
+      "meaning": "使成为；使…化（动词）",
+      "origin": "Greek",
+      "originDetail": "-izein",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "modernize",
+          "gloss": "使现代化"
+        },
+        {
+          "word": "realize",
+          "gloss": "实现；意识到"
+        },
+        {
+          "word": "organize",
+          "gloss": "组织"
+        }
+      ],
+      "mnemonic": "ize = make / become",
+      "relatedIds": [],
+      "tags": [
+        "Greek",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ify-suffix",
+      "form": "-ify/-fy",
+      "type": "suffix",
+      "meaning": "使成为；使…化（动词）",
+      "origin": "Latin",
+      "originDetail": "-ficare",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "simplify",
+          "gloss": "简化"
+        },
+        {
+          "word": "clarify",
+          "gloss": "澄清"
+        },
+        {
+          "word": "magnify",
+          "gloss": "放大"
+        }
+      ],
+      "mnemonic": "ify = make",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "en-suffix",
+      "form": "-en",
+      "type": "suffix",
+      "meaning": "使变得；由…制成",
+      "origin": "Germanic",
+      "originDetail": "-en",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "strengthen",
+          "gloss": "加强"
+        },
+        {
+          "word": "wooden",
+          "gloss": "木制的"
+        },
+        {
+          "word": "widen",
+          "gloss": "加宽"
+        }
+      ],
+      "mnemonic": "en = make / made of",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ly-suffix",
+      "form": "-ly",
+      "type": "suffix",
+      "meaning": "以…方式（副词）；具有…性质（形容词）",
+      "origin": "Germanic",
+      "originDetail": "-lic",
+      "difficulty": 1,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "quickly",
+          "gloss": "迅速地"
+        },
+        {
+          "word": "friendly",
+          "gloss": "友好的"
+        },
+        {
+          "word": "daily",
+          "gloss": "每日的"
+        }
+      ],
+      "mnemonic": "ly 常把形容词变副词",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度1",
+        "词性"
+      ]
+    },
+    {
+      "id": "ward-suffix",
+      "form": "-ward/-wards",
+      "type": "suffix",
+      "meaning": "向…方向",
+      "origin": "Germanic",
+      "originDetail": "weard",
+      "difficulty": 1,
+      "themes": [
+        "方向"
+      ],
+      "examples": [
+        {
+          "word": "forward",
+          "gloss": "向前"
+        },
+        {
+          "word": "backward",
+          "gloss": "向后"
+        },
+        {
+          "word": "homeward",
+          "gloss": "回家方向"
+        }
+      ],
+      "mnemonic": "ward = toward",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度1",
+        "方向"
+      ]
+    },
+    {
+      "id": "ship-suffix",
+      "form": "-ship",
+      "type": "suffix",
+      "meaning": "身份；状态；技艺",
+      "origin": "Germanic",
+      "originDetail": "-scipe",
+      "difficulty": 2,
+      "themes": [
+        "抽象"
+      ],
+      "examples": [
+        {
+          "word": "friendship",
+          "gloss": "友谊"
+        },
+        {
+          "word": "leadership",
+          "gloss": "领导力"
+        },
+        {
+          "word": "scholarship",
+          "gloss": "学问；奖学金"
+        }
+      ],
+      "mnemonic": "ship = status / skill",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度2",
+        "抽象"
+      ]
+    },
+    {
+      "id": "hood-suffix",
+      "form": "-hood",
+      "type": "suffix",
+      "meaning": "状态；时期；群体",
+      "origin": "Germanic",
+      "originDetail": "-had",
+      "difficulty": 2,
+      "themes": [
+        "抽象"
+      ],
+      "examples": [
+        {
+          "word": "childhood",
+          "gloss": "童年"
+        },
+        {
+          "word": "neighborhood",
+          "gloss": "邻里"
+        },
+        {
+          "word": "likelihood",
+          "gloss": "可能性"
+        }
+      ],
+      "mnemonic": "hood = state / period",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度2",
+        "抽象"
+      ]
+    },
+    {
+      "id": "dom-suffix",
+      "form": "-dom",
+      "type": "suffix",
+      "meaning": "领域；状态",
+      "origin": "Germanic",
+      "originDetail": "-dom",
+      "difficulty": 2,
+      "themes": [
+        "抽象"
+      ],
+      "examples": [
+        {
+          "word": "freedom",
+          "gloss": "自由"
+        },
+        {
+          "word": "kingdom",
+          "gloss": "王国"
+        },
+        {
+          "word": "wisdom",
+          "gloss": "智慧"
+        }
+      ],
+      "mnemonic": "dom = realm / condition",
+      "relatedIds": [],
+      "tags": [
+        "Germanic",
+        "suffix",
+        "难度2",
+        "抽象"
+      ]
+    },
+    {
+      "id": "ance-suffix",
+      "form": "-ance/-ence",
+      "type": "suffix",
+      "meaning": "状态；行为；性质（名词）",
+      "origin": "Latin",
+      "originDetail": "-antia",
+      "difficulty": 2,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "importance",
+          "gloss": "重要性"
+        },
+        {
+          "word": "difference",
+          "gloss": "差异"
+        },
+        {
+          "word": "performance",
+          "gloss": "表现"
+        }
+      ],
+      "mnemonic": "ance/ence = state of",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度2",
+        "词性"
+      ]
+    },
+    {
+      "id": "ate-suffix",
+      "form": "-ate",
+      "type": "suffix",
+      "meaning": "使…；具有…的；职位",
+      "origin": "Latin",
+      "originDetail": "-atus",
+      "difficulty": 2,
+      "themes": [
+        "词性"
+      ],
+      "examples": [
+        {
+          "word": "activate",
+          "gloss": "激活"
+        },
+        {
+          "word": "fortunate",
+          "gloss": "幸运的"
+        },
+        {
+          "word": "graduate",
+          "gloss": "毕业生；毕业"
+        }
+      ],
+      "mnemonic": "ate 可作动词/形容词/名词",
+      "relatedIds": [],
+      "tags": [
+        "Latin",
+        "suffix",
+        "难度2",
+        "词性"
+      ]
+    }
+  ]
+}
